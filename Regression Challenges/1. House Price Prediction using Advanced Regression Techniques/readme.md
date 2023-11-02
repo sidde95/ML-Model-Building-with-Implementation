@@ -9,11 +9,10 @@ This Jupyter Notebook presents an in-depth analysis of a housing dataset, focusi
 
 # Notebook Layout and Process
 The notebook is structured around a specific sequence of steps, meticulously following the data analysis process. These steps include:
-
+	
 - **Importing Necessary Libraries**: Initializing and importing essential Python libraries required for data manipulation, visualization, and model implementation.
 - **Gathering Information about the Dataset**: Exploring the dataset to understand its structure, features, and statistical insights.
 - **Data Cleaning**: Handling missing values, addressing inconsistencies, and preparing the data for analysis.
-- **Data Visualization**: Utilizing visualizations to comprehend relationships between variables and the target feature (housing prices).
 - **Dummy Variable Creation for Categorical Data**: Encoding categorical variables for model compatibility.
 - **Train Dataset Splitting**: Dividing the dataset into training and testing subsets to facilitate model building and validation.
 - **Random Forest Regressor**: Implementing the Random Forest Regressor model for predictive analysis.
