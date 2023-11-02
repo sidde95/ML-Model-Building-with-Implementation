@@ -1,6 +1,8 @@
 # Housing Dataset Analysis and Regression Modeling
 
-**Kaggle Competition Hosting Page**: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+- **Kaggle Competition Hosting Page**: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+- **Kaggle User Profile**: https://www.kaggle.com/sidde95
+- **Kaggle Competition Notebook**: 
 
 # Overview
 This Jupyter Notebook presents an in-depth analysis of a housing dataset, focusing on exploring various regression models to predict housing prices. The primary goal is to identify the most effective model through rigorous evaluation, hyperparameter tuning, and performance optimization to achieve lower squared error and a higher R-squared percentage. Ultimately, the selected model is applied to unseen data for comprehensive evaluation.
